@@ -30,7 +30,7 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li>Phone: 1800-XXX-XXXX</li>
               <li>Email: info@edutech.com</li>
-              <li>Address: EduTech Institute, Kota, Rajasthan</li>
+              <li>Address: Allen-EduTech-Institute, KPHB, Hyderabad</li>
             </ul>
           </div>
           <div>
