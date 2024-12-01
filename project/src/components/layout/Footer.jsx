@@ -13,7 +13,7 @@ const Footer = () => {
               <Logo/>
             </div>
             <p className="text-gray-400">
-              Leading the way in competitive exam preparation since 1988, EduTech has helped millions of students achieve their dreams.
+              Leading the way in competitive exam preparation since 1988, Allen-EduTech has helped millions of students achieve their dreams.
             </p>
           </div>
           <div>
@@ -29,7 +29,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <ul className="space-y-2 text-gray-400">
               <li>Phone: 1800-XXX-XXXX</li>
-              <li>Email: info@edutech.com</li>
+              <li>Email: info@Allen-edutech.com</li>
               <li>Address: Allen-EduTech-Institute, KPHB, Hyderabad</li>
             </ul>
           </div>
